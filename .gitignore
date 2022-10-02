@@ -1,0 +1,9 @@
+# Directories
+node_modules/
+test_*/
+
+# Extensions
+
+
+# Files
+test_*
