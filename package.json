@@ -1,0 +1,22 @@
+{
+  "name": "js416",
+  "version": "0.0.1",
+  "description": "lorem ipsum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezio416/js416.git"
+  },
+  "keywords": [
+    "js416"
+  ],
+  "author": "Ezio416",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezio416/js416/issues"
+  },
+  "homepage": "https://github.com/ezio416/js416#readme"
+}
